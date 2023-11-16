@@ -6,9 +6,9 @@ The goal of this project is to provide a foundational example of a code editor w
 
 Features<br>
 Clean and Minimalistic Interface: Designed for ease of use, providing a clutter-free environment for coding.
-HTML and CSS Exclusivity: Built using only HTML and CSS, avoiding complexities for beginners.
-Code Display and Entry: Enables users to input and view code snippets effortlessly.
-User-Friendly Design: Intuitive interface ensuring a smooth coding experience for all users.
+HTML and CSS Exclusivity: Built using only HTML and CSS, avoiding complexities for beginners.<br>
+Code Display and Entry: Enables users to input and view code snippets effortlessly.<br>
+User-Friendly Design: Intuitive interface ensuring a smooth coding experience for all users.<br>
 Usage
 To use this code editor, simply clone or download the repository and open the index.html file in your preferred web browser. From there, you can start typing and viewing code snippets within the editor.
 
