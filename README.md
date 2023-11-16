@@ -1,4 +1,4 @@
-Simple Code Editor using HTML and CSS
+Simple Code Editor using HTML and CSS.
 This project presents a straightforward yet effective code editor crafted entirely with HTML and CSS. As a testament to the simplicity and functionality achievable through minimalistic design, this code editor demonstrates how basic web technologies can be utilized to create a usable environment for writing and viewing code snippets.
 
 Overview
